@@ -8,20 +8,20 @@ Reading datafile = train-sets/lda-2pass-hang.dat
 num sources = 1
 average  since         example        example  current  current  current
 loss     last          counter         weight    label  predict features
-12.796945 12.796945            1            1.0  unknown   0.0000      201
-12.781804 12.766663            2            2.0  unknown   0.0000      220
-12.801055 12.820307            4            4.0  unknown   0.0000      136
-12.817311 12.833568            8            8.0  unknown   0.0000      371
-12.798675 12.780039           16           16.0  unknown   0.0000      138
-12.797310 12.795944           32           32.0  unknown   0.0000      276
-12.802420 12.807530           64           64.0  unknown   0.0000       55
-12.799834 12.797248          128          128.0  unknown   0.0000      131
-12.800295 12.800757          256          256.0  unknown   0.0000      433
-12.800773 12.801252          512          512.0  unknown   0.0000       61
+12.813775 12.813775            1            1.0  unknown   0.0000      201
+12.946867 13.079960            2            2.0  unknown   0.0000      220
+13.718190 14.489512            4            4.0  unknown   0.0000      136
+14.787531 15.856872            8            8.0  unknown   0.0000      371
+15.934851 17.082171           16           16.0  unknown   0.0000      138
+17.209260 18.483669           32           32.0  unknown   0.0000      276
+17.163311 17.117362           64           64.0  unknown   0.0000       55
+16.494666 15.826021          128          128.0  unknown   0.0000      131
+15.918044 15.341423          256          256.0  unknown   0.0000      433
+15.281657 14.645270          512          512.0  unknown   0.0000       61
 
 finished run
 number of examples = 1000
 weighted example sum = 1000.000000
 weighted label sum = 0.000000
-average loss = 12.800770
+average loss = 14.297953
 total feature number = 193156
